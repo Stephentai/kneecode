@@ -1,0 +1,291 @@
+<div style="font-family: open-sans, sans-serif; font-size:16px; letter-spacing:1px">
+
+<font color="#484848">
+
+<h2 id="startq"></h2>
+
+<div id="questions">
+<form id="myform" action="" method="post">
+  
+<p><strong><b>1. During the past 4 weeks, how would you describe the pain you usually have from your knee?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q1" name="q1" value="1"/> &ensp; No pain<BR>
+<input type="radio" id="q1" name="q1" value="2"/> &ensp; Very mild<BR>
+<input type="radio" id="q1" name="q1" value="3"/> &ensp; Mild<BR>
+<input type="radio" id="q1" name="q1" value="4"/> &ensp; Moderate<BR>
+<input type="radio" id="q1" name="q1" value="5"/> &ensp; Severe<BR>
+
+<br>
+<br>
+
+<p><strong><b>2. During the past 4 weeks, have you been troubled by the pain in your knee in bed at night?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q2" name="q2" value="1"/> &ensp; No<BR>
+<input type="radio" id="q2" name="q2" value="2"/> &ensp; Only 1 or 2 nights<BR>
+<input type="radio" id="q2" name="q2" value="3"/> &ensp; Some nights<BR>
+<input type="radio" id="q2" name="q2" value="4"/> &ensp; Most nights<BR>
+<input type="radio" id="q2" name="q2" value="5"/> &ensp; Every night<BR>
+
+<br>
+<br>
+
+<p><strong><b>3. During the past 4 weeks, have you been limping when walking because of your knee?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q3" name="q3" value="1"/> &ensp; Rarely/never<BR>
+<input type="radio" id="q3" name="q3" value="2"/> &ensp; Sometimes or just at first<BR>
+<input type="radio" id="q3" name="q3" value="3"/> &ensp; Often, not just at first<BR>
+<input type="radio" id="q3" name="q3" value="4"/> &ensp; Most of the time<BR>
+<input type="radio" id="q3" name="q3" value="5"/> &ensp; All of the time<BR>
+
+<br>
+<br>
+
+<p><strong><b>4. During the past 4 weeks, how long have you been able to walk before the pain from your knee becomes severe? (with or without a walking stick)</b></strong></p>
+
+<br>
+
+<input type="radio" id="q4" name="q4" value="1"/> &ensp; No pain, able to walk more than 30 minutes<BR>
+<input type="radio" id="q4" name="q4" value="2"/> &ensp; Between 15 – 30 minutes<BR>
+<input type="radio" id="q4" name="q4" value="3"/> &ensp; Between 5 – 15 minutes<BR>
+<input type="radio" id="q4" name="q4" value="4"/> &ensp; Around the house only<BR>
+<input type="radio" id="q4" name="q4" value="5"/> &ensp; Unable to walk<BR>
+
+<br>
+<br>
+
+<p><strong><b>5. During the past 4 weeks, would you be able to walk down one flight of stairs?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q5" name="q5" value="1"/> &ensp; Yes, easily<BR>
+<input type="radio" id="q5" name="q5" value="2"/> &ensp; With little difficulty<BR>
+<input type="radio" id="q5" name="q5" value="3"/> &ensp; With moderate difficulty<BR>
+<input type="radio" id="q5" name="q5" value="4"/> &ensp; With extreme difficulty<BR>
+<input type="radio" id="q5" name="q5" value="5"/> &ensp; No, impossible<BR>
+
+<br>
+<br>
+
+<p><strong><b>6. During the past 4 weeks, after a meal (sat at a table), how painful has it been for you to stand up from a chair because of your knee?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q6" name="q6" value="1"/> &ensp; Not at all painful<BR>
+<input type="radio" id="q6" name="q6" value="2"/> &ensp; Slightly painful<BR>
+<input type="radio" id="q6" name="q6" value="3"/> &ensp; Moderately painful<BR>
+<input type="radio" id="q6" name="q6" value="4 "/> &ensp; Very painful<BR>
+<input type="radio" id="q6" name="q6" value="5"/> &ensp; Unbearably painful<BR>
+
+<br>
+<br>
+
+<p><strong><b>7. During the past 4 weeks, how much has the pain from your knee interfered with your usual work (including household chores)?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q7" name="q7" value="1"/> &ensp; Not at all<BR>
+<input type="radio" id="q7" name="q7" value="2"/> &ensp; Very little trouble<BR>
+<input type="radio" id="q7" name="q7" value="3"/> &ensp; Moderate trouble<BR>
+<input type="radio" id="q7" name="q7" value="4"/> &ensp; Extreme difficulty<BR>
+<input type="radio" id="q7" name="q7" value="5"/> &ensp; Impossible to do<BR>
+
+<br>
+<br>
+
+<p><strong><b>8. During the past 4 weeks, have you had any trouble with washing and drying yourself (all over) because of your knee?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q8" name="q8" value="1"/> &ensp; No trouble at all<BR>
+<input type="radio" id="q8" name="q8" value="2"/> &ensp; Very little trouble<BR>
+<input type="radio" id="q8" name="q8" value="3"/> &ensp; Moderate trouble<BR>
+<input type="radio" id="q8" name="q8" value="4"/> &ensp; Extreme difficulty<BR>
+<input type="radio" id="q8" name="q8" value="5"/> &ensp; Impossible to do<BR>
+
+<br>
+<br>
+
+<p><strong><b>9. During the past 4 weeks, have you had any trouble getting in and out of a car or using public transport because of your knee (whichever you tend to use)?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q9" name="q9" value="1"/> &ensp; No trouble at all<BR>
+<input type="radio" id="q9" name="q9" value="2"/> &ensp; Very little trouble<BR>
+<input type="radio" id="q9" name="q9" value="3"/> &ensp; Moderate trouble<BR>
+<input type="radio" id="q9" name="q9" value="4"/> &ensp; Extreme difficulty<BR>
+<input type="radio" id="q9" name="q9" value="5"/> &ensp; Impossible to do<BR>
+
+<br>
+<br>
+
+<p><strong><b>10. During the past 4 weeks, could you kneel down and get up again afterwards?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q10" name="q10" value="1"/> &ensp; Yes, easily<BR>
+<input type="radio" id="q10" name="q10" value="2"/> &ensp; With little difficulty<BR>
+<input type="radio" id="q10" name="q10" value="3"/> &ensp; With moderate difficulty<BR>
+<input type="radio" id="q10" name="q10" value="4"/> &ensp; With extreme difficulty<BR>
+<input type="radio" id="q10" name="q10" value="5"/> &ensp; No, impossible<BR>
+
+<br>
+<br>
+
+
+<p><strong><b>11. During the past 4 weeks, have you felt your knee might suddenly ‘give way’ or let you down?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q11" name="q11" value="1"/> &ensp; Rarely/never<BR>
+<input type="radio" id="q11" name="q11" value="2"/> &ensp; Sometimes, or just at first<BR>
+<input type="radio" id="q11" name="q11" value="3"/> &ensp; Often, not just at first<BR>
+<input type="radio" id="q11" name="q11" value="4"/> &ensp; Most of the time<BR>
+<input type="radio" id="q11" name="q11" value="5"/> &ensp; All of the time<BR>
+
+<br>
+<br>
+
+
+<p><strong><b>12. During the past 4 weeks, could you do the household shopping on your own?</b></strong></p>
+
+<br>
+
+<input type="radio" id="q12" name="q12" value="1"/> &ensp; Yes, easily<BR>
+<input type="radio" id="q12" name="q12" value="2"/> &ensp; With little difficulty<BR>
+<input type="radio" id="q12" name="q12" value="3"/> &ensp; With moderate difficulty<BR>
+<input type="radio" id="q12" name="q12" value="4"/> &ensp; With extreme difficulty<BR>
+<input type="radio" id="q12" name="q12" value="5"/> &ensp; No, impossible<BR>
+
+
+
+<BR><BR>
+
+<script>
+
+
+function getRadioVal(form, name) {
+    var val;
+    // get list of radio buttons with specified name
+    var radios = form.elements[name];
+    
+    // loop through list of radio buttons
+    for (var i=0, len=radios.length; i<len; i++) {
+        if ( radios[i].checked ) { // radio checked?
+            val = radios[i].value; // if so, hold its value in val
+            break; // and break out of for loop
+        }
+    }
+    return val; // return value of checked radio or undefined if none checked
+}
+
+
+function questionsResult(){
+var q1 = getRadioVal( document.getElementById('myform'), 'q1' );
+var q2 = getRadioVal( document.getElementById('myform'), 'q2' );
+var q3 = getRadioVal( document.getElementById('myform'), 'q3' );
+var q4 = getRadioVal( document.getElementById('myform'), 'q4' );
+var q5 = getRadioVal( document.getElementById('myform'), 'q5' );
+var q6 = getRadioVal( document.getElementById('myform'), 'q6' );
+var q7 = getRadioVal( document.getElementById('myform'), 'q7' );
+var q8 = getRadioVal( document.getElementById('myform'), 'q8' );
+var q9 = getRadioVal( document.getElementById('myform'), 'q9' );
+var q10 = getRadioVal( document.getElementById('myform'), 'q10' );
+var q11 = getRadioVal( document.getElementById('myform'), 'q11' );
+var q12 = getRadioVal( document.getElementById('myform'), 'q12' );
+
+
+if (parseInt(q1)>0){ q1 = parseInt(q1); } else { q1 = 1; }
+if (parseInt(q2)>0){ q2 = parseInt(q2); } else { q2 = 1; }
+if (parseInt(q3)>0){ q3 = parseInt(q3); } else { q3 = 1; }
+if (parseInt(q4)>0){ q4 = parseInt(q4); } else { q4 = 1; }
+if (parseInt(q5)>0){ q5 = parseInt(q5); } else { q5 = 1; }
+if (parseInt(q6)>0){ q6 = parseInt(q6); } else { q6 = 1; }
+if (parseInt(q7)>0){ q7 = parseInt(q7); } else { q7 = 1; }
+if (parseInt(q8)>0){ q8 = parseInt(q8); } else { q8 = 1; }
+if (parseInt(q9)>0){ q9 = parseInt(q9); } else { q9 = 1; }
+if (parseInt(q10)>0){ q10 = parseInt(q10); } else { q10 = 1; }
+if (parseInt(q11)>0){ q11 = parseInt(q11); } else { q11 = 1; }
+if (parseInt(q12)>0){ q12 = parseInt(q12); } else { q12 = 1; }
+
+
+d1 = document.getElementById("questions");
+d2 = document.getElementById("theResult");
+   
+d1.style.display = "none";
+d2.style.display = "block";
+
+
+document.getElementById("calcResult").innerHTML = "<h1>Your score is "  + ( parseInt(60)-(q1+q2+q3+q4+q5+q6+q7+q8+q9+q10+q11+q12) ) + "</h1>";
+
+scroll(0,0);
+
+}
+
+
+
+function redoQuestions(){
+
+d1 = document.getElementById("questions");
+d2 = document.getElementById("theResult");
+   
+d1.style.display = "block";
+d2.style.display = "none";
+
+scroll(0,0);
+
+}
+</script>
+
+<div onclick="questionsResult();" style="padding:10px;background-color:#29abe2;color:white;font-size:18px;width:200px;text-align:center;border-radius:25px;cursor:pointer;">Get Result</div>
+
+</form>
+</div>
+<div id="theResult" style="display:none;">
+<span id="calcResult" style="font-weight: bold; font-size:23px; letter-spacing:1px; color:#29abe2;<b>">[result here]</span>
+
+<br>
+
+<h4>Understanding your result</h4>
+
+<br>
+
+<p><strong>Score 0 to 19</strong>
+<br>Indicates you may have severe knee arthritis. It is highly likely you will need surgical intervention and may be a candidate for a knee replacement. Your GP is most likely to send you for x-rays and refer you to an orthopaedic surgeon for assessment.
+
+<br>
+<br>
+
+<p><strong>Score 20 – 29</strong>
+
+<br>
+
+<p>Indicates you may have moderate to severe arthritis. Your GP is likely to order x-rays and refer you to an orthopaedic surgeon for assessment if the pain is making life very difficult for you.
+
+<br>
+<br>
+
+<p><strong>Score 30 – 39</strong>
+
+<p>Indicates you may have moderate knee arthritis. Your GP may recommend x-rays if the pain is interfering with your life – and may also suggest non-surgical options (e.g. anti-inflammatory medications). Note that patients who are overweight may benefit from weight loss, as excess weight can put considerable stress on knees. If your knee function and pain worsens over time, your GP may refer you see an orthopaedic specialist.
+
+<br>
+<br>
+
+<p><strong>Score 40 – 48</strong>
+
+<p>A score in this range indicates you have satisfactory joint function. You are unlikely to require medical intervention.
+
+<br>
+<br>
+
+<div onclick="redoQuestions();" style="padding:10px;background-color:#29abe2;color:white;font-size:18px;width:150px;text-align:center;border-radius:25px;cursor:pointer;">Try Again</div>
+
+</div>
+
+</div>
